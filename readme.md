@@ -12,7 +12,7 @@ This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github
 1. **Wildtech BB40**
 2. **Keystonecaps Gameroyadvance**
 3. **Wilba.Tech WT60.H1** Not yet modified
-4. **GMMK Pro ** Not yet modified
+4. **GMMK Pro** Not yet modified
 5. **** Not yet modified
 
 ## Documentation

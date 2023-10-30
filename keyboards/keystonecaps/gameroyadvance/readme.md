@@ -1,5 +1,11 @@
 # Game Roy ADVANCE
 
+## For Flashing
+
+Use `qmk flash -kb keystonecaps/gameroyadvance -km default -bl avrdude-split-right` to flash the right side with the default keymaping.
+For the other side just use `qmk flash -kb keystonecaps/gameroyadvance -km default`.
+
+## Default README
 ![Game Roy ADVANCE](https://i.imgur.com/N6RI4fUh.jpg)
 ![GRALAYOUTS](https://i.imgur.com/lHjTRQK.png)
 
