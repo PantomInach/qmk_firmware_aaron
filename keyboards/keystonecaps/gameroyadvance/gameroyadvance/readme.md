@@ -6,14 +6,15 @@ Use `qmk flash -kb keystonecaps/gameroyadvance -km default -bl avrdude-split-rig
 For the other side just use `qmk flash -kb keystonecaps/gameroyadvance -km default`.
 
 ## Default README
+
 ![Game Roy ADVANCE](https://i.imgur.com/N6RI4fUh.jpg)
 ![GRALAYOUTS](https://i.imgur.com/lHjTRQK.png)
 
 A one-handed, expandable game pad designed to take your pc gaming to the next level. Designed by [Keystone Caps](https://keystonecaps.store).
 
-* Keyboard Maintainer: [RoyMeetsWorld](https://github.com/ROYMEETSWORLD)
-* Hardware Supported: Game Roy ADVANCE
-* Hardware Availability: [keystonecaps.store](https://keystonecaps.store)
+-   Keyboard Maintainer: [RoyMeetsWorld](https://github.com/ROYMEETSWORLD)
+-   Hardware Supported: Game Roy ADVANCE
+-   Hardware Availability: [keystonecaps.store](https://keystonecaps.store)
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -29,8 +30,8 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 Enter the bootloader in 3 ways:
 
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` (FN + Escape by default)
+-   **Bootmagic reset**: Hold down the key at (0,0) in the matrix (Escape) and plug in the keyboard
+-   **Physical reset button**: Briefly press the button on the back of the PCB
+-   **Keycode in layout**: Press the key mapped to `QK_BOOT` (FN + Escape by default)
 
 Special thanks to @tpstevens for all of his hard work in creating these firmware files from the mess that I had made.

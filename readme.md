@@ -8,6 +8,13 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the Clueboard product line.
 
+## Modified Keyboards
+1. **Wildtech BB40**
+2. **Keystonecaps Gameroyadvance**
+3. **Wilba.Tech WT60.H1** Not yet modified
+4. **GMMK Pro**
+5. **Yiancaer Designs Gingham**
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
